@@ -1,5 +1,6 @@
 import React from 'react'
 import { childrenWithProps } from '../utils/reactUtils'
+//este item é essencial para fazer esse passagem de propriedades do elemento pai para o filho
 
 export default props => (
 
